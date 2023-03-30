@@ -6,8 +6,7 @@ As you already know, python has libraries for nearly all tasks. For machine lear
 
 ### Tensors
 
-THE data structure in machine learning is the so-called Tensor.
-It is a structure that is very similar to numpy arrays, but they can be used on GPUs. And GPUs we really need if we don't want to get old waiting ...
+Temsors are THE data structure in machine learning. A tensor is a structure very similar to a numpy array, but it can be used on GPUs. And GPUs we really need if we don't want to get old waiting ...
 
 You can create tensors from: numpy arrays, ...
 
