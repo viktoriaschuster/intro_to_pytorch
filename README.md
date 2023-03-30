@@ -1,4 +1,4 @@
-# Intro to pytorch
+# Intro to PyTorch
 
 The material in this repository is based on the [PyTorch documentation](https://pytorch.org/docs/stable/index.html). In the `tensors.ipynb` notebook, ChatGPT has helped with a few example code chunks and summarization for broadcasting rules :wink:.
 
