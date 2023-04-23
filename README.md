@@ -8,14 +8,14 @@ We will introduce you to `Tensors` and `Modules`, which are the base for all the
 
 The notebooks are supposed to be used in the format of a course and will soon receive some exercises, too. You can find the teaching material in the [notebooks](notebooks) folder and should go through in the indicated order:
 
-### [Tensors](notebooks/01_tensors.ipynb)
+### [Tensors](notebooks/010_tensors.ipynb)
 
-### [Modules](notebooks/02_modules.ipynb)
+### [Modules](notebooks/020_modules.ipynb)
 
-### [Datasets and Dataloaders](notebooks/03_datasets_and_loaders.ipynb)
+### [Datasets and Dataloaders](notebooks/030_datasets_and_loaders.ipynb)
 
-### [A simple Neural Network](notebooks/04_neuralnetworks.ipynb)
+### [A simple Neural Network](notebooks/040_neuralnetworks.ipynb)
 
-We recommend that you clone the repo, so you can work and try out things in the notebooks yourself.
+There is also a [collected notebook](notebooks/intro_to_pytorch.ipynb) of all topics together that has been created for the Introduction to Machine Learning course at [HeaDS](https://heads.ku.dk/) [in this repo](https://github.com/Center-for-Health-Data-Science/IntroToML).
 
 We hope you will have fun and find this material useful.
