@@ -9,7 +9,7 @@ The PatchCamelyon (PCam) dataset is a benchmark set for medical image classifica
 
 This figure and the data are taken from  [this repo](https://github.com/basveeling/pcam) and shows example images from PCam, with green boxes showing tumor tissue which gives a label of 1.
 
-We provide a subset of this data, comprising 5% of the original data in a train-validation-test split. The training data now consists of 13108 images and both validation and test set contain 1639 images. Don't expect the model performances to be great with this small dataset, but it is a nice way to get started. You could always go to the full dataset and try out your model on that. Because image data can be challenging to get started with, we also provide the Dataset class with how to load the data in the starter notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/HEAD/projects/histopathology_images/pcam_start.ipynb).
+We provide a subset of this data, comprising 5% of the original data in a train-validation-test split. The training data now consists of 13108 images and both validation and test set contain 1639 images. Don't expect the model performances to be great with this small dataset, but it is a nice way to get started. You could always go to the full dataset and try out your model on that. Because image data can be challenging to get started with, we also provide the Dataset class with how to load the data in the starter notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/viktoriaschuster/intro_to_pytorch/blob/main/data_challenge/PCAM_challenge.ipynb).
 
 ## The task
 
